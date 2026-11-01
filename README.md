@@ -32,6 +32,14 @@ Works with **Claude** (claude.ai, Claude Desktop, Claude Code) and **OpenAI Code
 
 ---
 
+## 适合谁用 / Who it's for
+
+- 🎓 在国外读书、学校邮件多又是外语的中国留学生
+- ⏰ 容易错过截止日期的博士和研究生
+- 🤖 想用 AI 但不会写代码的同学
+
+---
+
 ## 安装 / Install
 
 先下载：点本页上方绿色的 **Code → Download ZIP**，然后解压。
